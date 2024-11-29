@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+	<meansOfTransport type="rower" colour="czarny">
+		<mark>Kross</mark>
+		<model>Hexagon</model>
+		<yearOfProduction>2021</yearOfProduction>
+		<destiny>krótkie trasy na ścieżkach rowerowych</destiny>
+	</meansOfTransport>
+
+	<meansOfTransport type="samochód" colour="czerwony">
+		<mark>Renault</mark>
+		<model>Clio</model>
+		<yearOfProduction>2012</yearOfProduction>
+		<destiny>Dojazd do pracy</destiny>
+	</meansOfTransport>
+
+	<meansOfTransport type="hulajnoga" colour="biały">
+		<mark>Xiaomi</mark>
+		<model>Mi Electric Scooter 3</model>
+		<yearOfProduction>2022</yearOfProduction>
+		<destiny>Rekreacja</destiny>
+	</meansOfTransport>
+</transport>

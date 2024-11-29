@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>Jan</name>
+        <surname>Kowalski</surname>
+        <emailAdres>jan.kowalski@example.com</emailAdres>
+    </sender>
+    <recipient>
+        <name>Anna</name>
+        <surname>Nowak</surname>
+        <emailAdres>anna.nowak@example.com</emailAdres>
+    </recipient>
+    <subject>Tytuł tematu e-maila</subject>
+    <message>
+        Treść e-maila
+    </message>
+</email>

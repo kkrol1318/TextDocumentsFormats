@@ -1,0 +1,20 @@
+{
+  "ticketNumber": "123456789",
+  "passengerName": "Jan Kowalski",
+  "trainNumber": "2345",
+  "trainName": "Express Train",
+  "departure": {
+    "station": "New York Central",
+    "date": "2024-12-01",
+    "time": "10:30"
+  },
+  "arrival": {
+    "station": "Boston Terminal",
+    "date": "2024-12-01",
+    "time": "14:45"
+  },
+  "seatDetails": {
+    "coach": "B2",
+    "seatNumber": "45",
+    "class": "Sleeper"
+}

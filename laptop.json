@@ -1,0 +1,14 @@
+{
+"brand": "Dell",
+"model": "Inspiron 15",
+"year": 2023,
+"isTouchscreen": false,
+"devices": ["touchpad","webcam"]
+  "price": 899.99,
+  "warrantyYears": 2,
+  "specifications": {
+    "RAM": "16GB",
+    "storage": "512GB SSD",
+    "processor": "Intel Core i7"
+  }
+}
